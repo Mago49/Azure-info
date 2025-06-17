@@ -1,1 +1,1 @@
-# Azure-info
+Boa noite, como informado anteriormente estou fazendo o curso pelo celular, portanto não consegui fazer a execução desse projeto. Mas estou criando um material de estudo com os links enviados para que assim que eu conseguir um computador, eu executar todos os projetos. Agradeço pelos ensinamentos e espero que compreenda.
